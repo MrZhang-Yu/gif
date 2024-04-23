@@ -5,5 +5,4 @@
 
 <center class ='img'>
 <img title="XX" src="图像1网络链接" width="45%">
-<img title="XX" src="图像2网络链接" width="45%">
 </center>
