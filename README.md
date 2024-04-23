@@ -4,5 +4,5 @@
 
 
 <center class ='img'>
-<img title="XX" src="b_c9e2743bc57f1ebc57273bd89bdfcf13.jpg" width="45%">
+<img title="XX" src="5c0fc0c7df724501a25c0595c6ef7e6d.gif" width="45%">
 </center>
